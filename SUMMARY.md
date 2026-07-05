@@ -4,4 +4,4 @@
 
 ## Linux Fundamentals
 
-* [Page 1](linux-fundamentals/page-1.md)
+* [Linux Fundamentals 1](linux-fundamentals/linux-fundamentals-1.md)
